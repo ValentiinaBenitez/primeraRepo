@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 7\ejercicio 7\bin\Debug\ejercicio 7.exe.config
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 7\ejercicio 7\bin\Debug\ejercicio 7.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 7\ejercicio 7\bin\Debug\ejercicio 7.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 7\ejercicio 7\bin\Debug\ejercicio 7.exe.config
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 7\ejercicio 7\bin\Debug\ejercicio 7.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 7\ejercicio 7\bin\Debug\ejercicio 7.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 7\ejercicio 7\obj\Debug\ejercicio 7.pdb

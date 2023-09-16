@@ -1,0 +1,7 @@
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctica 1\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe.config
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctica 1\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctica 1\ejercicio 1\ejercicio 1\bin\Debug\ejercicio 1.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctica 1\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctica 1\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctica 1\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctica 1\ejercicio 1\ejercicio 1\obj\Debug\ejercicio 1.pdb

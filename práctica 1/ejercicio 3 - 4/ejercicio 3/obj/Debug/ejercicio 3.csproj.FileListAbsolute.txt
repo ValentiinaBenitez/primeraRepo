@@ -1,0 +1,21 @@
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3\ejercicio 3\bin\Debug\ejercicio 3.exe.config
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3\ejercicio 3\bin\Debug\ejercicio 3.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3\ejercicio 3\bin\Debug\ejercicio 3.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3\ejercicio 3\obj\Debug\ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3\ejercicio 3\obj\Debug\ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3\ejercicio 3\obj\Debug\ejercicio 3.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3\ejercicio 3\obj\Debug\ejercicio 3.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3 - 4\ejercicio 3\bin\Debug\ejercicio 3.exe.config
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3 - 4\ejercicio 3\bin\Debug\ejercicio 3.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3 - 4\ejercicio 3\bin\Debug\ejercicio 3.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticos\práctico 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 3 - 4\ejercicio 3\bin\Debug\ejercicio 3.exe.config
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 3 - 4\ejercicio 3\bin\Debug\ejercicio 3.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 3 - 4\ejercicio 3\bin\Debug\ejercicio 3.pdb
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.exe
+C:\Users\usuario\OneDrive\Escritorio\segundo semestre\prog2\prácticas\práctica 1\ejercicio 3 - 4\ejercicio 3\obj\Debug\ejercicio 3.pdb
